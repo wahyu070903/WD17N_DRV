@@ -1,0 +1,5 @@
+../Core/Src/driver.c:9:6:stepperInit	1
+../Core/Src/driver.c:15:6:setMicrostep	14
+../Core/Src/driver.c:36:6:generateStep	2
+../Core/Src/driver.c:44:6:configureSpeed	1
+../Core/Src/driver.c:55:6:HAL_TIM_PWM_PulseFinishedCallback	3

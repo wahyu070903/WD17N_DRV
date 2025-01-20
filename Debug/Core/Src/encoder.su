@@ -1,0 +1,5 @@
+../Core/Src/encoder.c:10:9:encInit	24	static
+../Core/Src/encoder.c:25:6:angleProgram	32	static
+../Core/Src/encoder.c:35:6:encChangeDir	16	static
+../Core/Src/encoder.c:45:6:encGetAngle	48	static
+../Core/Src/encoder.c:55:6:watchStatus	48	static

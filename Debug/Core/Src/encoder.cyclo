@@ -1,0 +1,5 @@
+../Core/Src/encoder.c:10:9:encInit	4
+../Core/Src/encoder.c:25:6:angleProgram	1
+../Core/Src/encoder.c:35:6:encChangeDir	3
+../Core/Src/encoder.c:45:6:encGetAngle	1
+../Core/Src/encoder.c:55:6:watchStatus	1
